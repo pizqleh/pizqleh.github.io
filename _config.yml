@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedro Izquierdo Lehmann, MSc"
+title                    : "Pedro Izquierdo Lehmann, M.Sc."
 title_separator          : "-"
 name                     : &name "Pedro Izquierdo Lehmann"
 description              : &description "My research interests lie in the intersection of mathematical optimization, signal processing and data science, with a focus on perception-driven audio and biomedical applications."
