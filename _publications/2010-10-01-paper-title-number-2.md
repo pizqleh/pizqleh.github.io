@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards Maximizing a Perceptual Sweet Spot in a Reverberating Room"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Master Thesis Spin Off.'
+date: 2022-08
+venue: 'Audio for Virtual and Augmented Reality 2022, AES Conference'
+paperurl: 'http://www.aes.org/e-lib/browse.cfm?elib=21851'
+citation: ''P. Izquierdo Lehmann, R. F. Cádiz and C. A. Sing Long, &quot;Towards Maximizing a Perceptual Sweet Spot in a Reverberating Room,&quot;" in <i>Audio for Virtual and Augmented Reality AES Conference<i>, 2022.''
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
