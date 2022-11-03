@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Classifying healthy versus NAFLD mice from liver fatty acids 1H-MRS at 9.4 T using SVMs"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'iHealth data exploration.'
+date: 2022-04
+venue: '2022 Joint Annual Meeting ISMRM-ESMRMB'
+paperurl: 'https://archive.ismrm.org/2022/3385.html'
+citation: 'P. Izquierdo Lehmann, A. Xavier, M. Andía, C. A. Sing Long. &quot;Classifying healthy versus NAFLD mice from liver fatty acids 1H-MRS at 9.4 T using SVMs&quot;, <i>2022 Joint Annual Meeting ISMRM-ESMRMB<i>, 2022.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
