@@ -85,7 +85,7 @@ author:
   bio              : "M.Sc. Mathematical and Computational Engineering, Pontificia Universidad Católica de Chile."
   location         : "Santiago, Chile"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ii7b-UAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
