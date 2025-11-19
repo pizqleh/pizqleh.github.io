@@ -1,4 +1,4 @@
-baseURL = https://pizqleh.github.io/'
+baseURL = 'https://pizqleh.github.io/'
 languageCode = 'en-us'
 title = 'Pedro Izquierdo Lehmann'
 theme = 'blowfish'
