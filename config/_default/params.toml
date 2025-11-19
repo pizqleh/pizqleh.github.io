@@ -41,7 +41,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
   profileImage = "images/profile.png"  # Add this line - path relative to static/ directory
-  bio = """I am a third year PhD Student in the Department of Applied Mathematics and Statistics at <u>[Johns Hopkins University](https://www.jhu.edu/)</u>, where I am fortunate to be advised by <u>[Mateo Díaz](https://mateodd25.github.io/)</u>. Previously, I completed an MSc in Electrical Engineering and a BS in Mathematical and Computational Engineering at <u>[Pontificia Universidad Católica de Chile](https://www.uc.cl/en)</u>, where I was advised by <u>[Carlos Sing Long](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/186-carlos-a-sing-long)</u>.
+  bio = """I am a third year PhD Student in the Department of Applied Mathematics and Statistics at [Johns Hopkins University](https://www.jhu.edu/), where I am fortunate to be advised by [Mateo Díaz](https://mateodd25.github.io/). Previously, I completed an MSc in Electrical Engineering and a BS in Mathematical and Computational Engineering at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en), where I was advised by [Carlos Sing Long](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/186-carlos-a-sing-long).
   <br/><br/>
   My research interests lie at the interplay between **optimization and statistics**, with applications in machine learning and signal processing. Most of my current work centers on designing and analyzing **large-scale first-order optimization algorithms**. 
   I also enjoy mathematical modeling and collaborating on interdisciplinary projects.
