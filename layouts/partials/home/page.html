@@ -1,0 +1,11 @@
+{{/* Custom homepage layout - shows content with title */}}
+<article class="max-w-full prose dark:prose-invert">
+  {{ with .Title }}
+    <header>
+        <h1 class="text-lg font-medium" style="margin-top: 3rem;font-size: calc(1rem + 3pt);">{{ . | emojify }}</h1>
+    </header>
+  {{ end }}
+  <section class="w-full" style="line-height: 0.5;">
+    {{ .Content }}
+  </section>
+</article>

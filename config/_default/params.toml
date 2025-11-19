@@ -10,7 +10,7 @@ defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableA11y = false
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 replyByEmail = false
@@ -40,6 +40,17 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  profileImage = "images/profile.png"  # Add this line - path relative to static/ directory
+  bio = """I am a third year PhD Student in the Department of Applied Mathematics and Statistics at <u>[Johns Hopkins University](https://www.jhu.edu/)</u>, where I am fortunate to be advised by <u>[Mateo Díaz](https://mateodd25.github.io/)</u>. Previously, I completed an MSc in Electrical Engineering and a BS in Mathematical and Computational Engineering at <u>[Pontificia Universidad Católica de Chile](https://www.uc.cl/en)</u>, where I was advised by <u>[Carlos Sing Long](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/186-carlos-a-sing-long)</u>.
+  <br/><br/>
+  My research interests lie at the interplay between **optimization and statistics**, with applications in machine learning and signal processing. Most of my current work centers on designing and analyzing **large-scale first-order optimization algorithms**. 
+  I also enjoy mathematical modeling and collaborating on interdisciplinary projects.
+  """
+  [header.socialLinks]
+    google-scholar = "https://scholar.google.com/citations?hl=en&user=Ha92V3IAAAAJ"
+    linkedin = "https://www.linkedin.com/in/pedro-izquierdo-lehmann-222139167"
+    github = "https://github.com/pizqleh"
+    email = "mailto:pizquie1@jh.edu"
 
 [footer]
   showMenu = true
@@ -49,7 +60,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  layout = "page" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
