@@ -7,7 +7,7 @@ title = 'Publications'
    
    
    - **Active set identification and rapid convergence for degenerate primal-dual problems**\
-   (with M. Díaz, H. Lu, J. Yang), 2025. [Link](https://ieeexplore.ieee.org/document/9829924/)
+   (with M. Díaz, H. Lu, J. Yang), Manuscript in preparation, 2025.
 
 
    - **Exact Classification of NMR Spectra from NMR Signals**\
