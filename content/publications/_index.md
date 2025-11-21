@@ -19,7 +19,7 @@ title = 'Publications'
 
    <!-- {{< figure src="images/spectroscopy.png" alt="Alt text" caption="" default=true width="750px" >}} -->
 
-   - **Towards Maximizing a Perceptual Sweet Spot for Spatial Sound With Loudspeakers** [[Link]](https://ieeexplore.ieee.org/document/9829924/)\
+   - **Towards Maximizing a Perceptual Sweet Spot for Spatial Sound With Loudspeakers** [[Link]](https://ieeexplore.ieee.org/document/9829924/)[[Code]](https://github.com/csl-lab/sweet-sps)\
    (with C. A. Sing Long, R. Cádiz), IEEE Transactions on Audio, Speech, and Language Processing, 2022.\
    We developed a first-principles mathematical framework and an efficient algorithm to solve a spatial-audio problem: rendering an auditory illusion over a region of interest with few speakers. In proof-of-concept numerical simulations, our method outperforms state-of-the-art sound field synthesis methods in terms of binaural azimuth localization and binaural coloration.
 
