@@ -7,7 +7,7 @@ title = 'Publications'
    
    
    - **Active set identification and rapid convergence for degenerate primal-dual problems**\
-   (with M. Díaz, H. Lu, J. Yang), Manuscript in preparation, 2025.\
+   (with M. Díaz, H. Lu, J. Yang), Manuscript in preparation, 2026.\
    Primal-dual optimization methods often exhibit a distinct two-stage behavior. Initially, they converge towards a solution at a sublinear rate. Then, after a certain point, all iterates accurately identify the set of active constraints, and their convergence accelerates to linear. We characterize mild conditions on the problem geometry and algorithm under which this phenomenon provably occurs. Our guarantees are entirely nonasymptotic and do not rely on strict complementarity (non-degeneracy). 
 
 {{< figure src="images/two_stage.png" alt="Alt text" caption="" default=true width="320px" >}}
