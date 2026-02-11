@@ -6,6 +6,8 @@ title = 'Teaching Assistance'
 
 ### Johns Hopkins University
 
+- **AMS 803 Financial Computing Workshop** Winter 2026 **(Instructor)**.
+
 - **AMS 747 Mathematics of Data Science** Fall 2025. [[Info]](https://mateodd25.github.io/mds/)
 
 - **AMS 730 Statistical Theory I** Fall 2025.
@@ -15,6 +17,8 @@ title = 'Teaching Assistance'
 - **AMS 762 Nonlinear Optimization II** Spring 2025. [[Info]](https://mateodd25.github.io/nonlinear2/)
 
 - **AMS 761 Nonlinear Optimization I** Fall 2024. [[Info]](https://mateodd25.github.io/nonlinear/)
+
+- **AMS 642 Investment Science** Fall 2023.
 
 ### Pontificia Universidad Católica de Chile
 
