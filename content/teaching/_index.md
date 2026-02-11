@@ -6,7 +6,7 @@ title = 'Teaching Assistance'
 
 ### Johns Hopkins University
 
-- **AMS 803 Financial Computing Workshop** Winter 2026 **(Instructor)**.
+- **AMS 803 Financial Computing Workshop** Winter 2026 **(Instructor)** [[Code]](https://github.com/pizqleh/financial-computing-workshop).
 
 - **AMS 747 Mathematics of Data Science** Fall 2025. [[Info]](https://mateodd25.github.io/mds/)
 
