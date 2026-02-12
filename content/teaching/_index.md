@@ -12,7 +12,7 @@ title = 'Teaching Assistance'
 
 - **AMS 730 Statistical Theory I** Fall 2025.
 
-- **Introduction to Statistics for AMS Masters** Summer 2025 **(Instructor)**.
+- **Introduction to Statistics for AMS Masters** Summer 2025 **(Instructor)** [[Notes]](/statistics_introduction.pdf)[[Code]](https://github.com/pizqleh/statistics-summer-introduction/tree/main).
 
 - **AMS 762 Nonlinear Optimization II** Spring 2025. [[Info]](https://mateodd25.github.io/nonlinear2/)
 
